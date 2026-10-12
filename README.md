@@ -85,6 +85,10 @@ Performed customer segmentation using Recency, Frequency, and Monetary analysis 
 
 Implemented Gradient Descent from scratch in Python to understand how optimization works behind linear regression.
 
+### 🎥Movie recommendation system
+
+A Streamlit based movie recommendation system which give top 5 movies similar to given movies by user.
+
 ---
 
 ## 🎯 Interests
